@@ -43,3 +43,4 @@ z*.py
 y*.py
 x*.py
 benchmarks/
+*.swp
